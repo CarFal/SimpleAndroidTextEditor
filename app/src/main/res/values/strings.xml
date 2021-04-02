@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SimpleTextEditor</string>
+    <string name="type_text_here">Type Text Here...</string>
+    <string name="bold">Bold</string>
+    <string name="italics">italics</string>
+    <string name="underline">Underline</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
 </resources>
